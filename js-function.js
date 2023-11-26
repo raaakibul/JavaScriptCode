@@ -5,3 +5,4 @@ function addition(x,y){
 }
 // addition(3,4);
 console.log(addition(3,4));
+console.log(addition(34,455));
