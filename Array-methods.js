@@ -4,3 +4,6 @@ console.log(letter);
 
 letter.shift();
 console.log(letter);
+
+letter.unshift('a');
+console.log(letter);
