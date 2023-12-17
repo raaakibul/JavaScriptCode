@@ -7,3 +7,9 @@ console.log(letter);
 
 letter.unshift('a');
 console.log(letter);
+
+letter.splice(2,0,"y")
+console.log(letter);
+
+letter.push('z')
+console.log(letter);
