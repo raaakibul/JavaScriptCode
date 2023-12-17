@@ -13,3 +13,7 @@ console.log(letter);
 
 letter.push('z')
 console.log(letter);
+
+
+letter.splice(2,1,)
+console.log(letter);
