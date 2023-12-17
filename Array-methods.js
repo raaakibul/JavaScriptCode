@@ -14,6 +14,11 @@ console.log(letter);
 letter.push('z')
 console.log(letter);
 
-
+// Remove
 letter.splice(2,1,)
 console.log(letter);
+
+var array =  letter.slice(1)
+console.log(array);
+
+
