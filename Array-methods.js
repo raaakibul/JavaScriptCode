@@ -21,4 +21,7 @@ console.log(letter);
 var array =  letter.slice(1)
 console.log(array);
 
+// sort methods
 
+var sorted = letter.sort()
+console.log(sorted);
