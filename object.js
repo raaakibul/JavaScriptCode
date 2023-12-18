@@ -12,6 +12,8 @@ function Student(name, age, roll, cgpa){
     }
 }
 
+
+
 var student1 = new Student("Rakibul Islam",24,14, 3.45)
 // console.log(student1);
 student1.display()
