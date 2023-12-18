@@ -25,3 +25,13 @@ console.log(array);
 
 var sorted = letter.sort()
 console.log(sorted);
+
+
+var number = [23,45,21,56,22,27]
+console.log(number);
+
+number.sort(function(a,b){
+    return a-b;
+
+}); 
+console.log(number);
