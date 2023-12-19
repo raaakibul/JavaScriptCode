@@ -20,3 +20,7 @@ student1.display()
 var student2 = new Student("Anisul Islam",27,17, 3.77)
 // console.log(student2);
 student2.display()
+
+var student3 = new Student("Anisul", 34,38,3.85)
+student3.display()
+
