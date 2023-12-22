@@ -1,8 +1,11 @@
 var date = new Date();
-console.log(date); 
+console.log("Date: "+date); 
 
 var year = date.getFullYear();
-console.log(year);
+console.log("Year: "+ year);
 
 var month = date.getMonth();
-console.log(month);
+console.log("Month: "+month);
+
+var currentDate = date.getDate();
+console.log("Date: " + currentDate);
