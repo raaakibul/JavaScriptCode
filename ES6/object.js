@@ -25,3 +25,4 @@ var person = {
 }
 console.log(person);
 console.log("Shirt price:",person.shirt.price);
+console.log(person['smile']);
